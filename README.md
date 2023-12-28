@@ -1,6 +1,7 @@
 # Pizza Menu
 
 This project is a simple React-based menu application that showcases a list of pizzas available in a fictional pizzeria called "Fast React Pizza Co."
+- Hosted on Netlify: https://toronto-pizza.netlify.app/
 
 ![image](https://github.com/SajalTimilsina/Pizza-menu/assets/19229631/e901eca8-129b-4034-8dc7-fe44b86849fc)
 
