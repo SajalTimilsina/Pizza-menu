@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Pizza Menu
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple React-based menu application that showcases a list of pizzas available in a fictional pizzeria called "Fast React Pizza Co."
 
-## Available Scripts
+![image](https://github.com/SajalTimilsina/Pizza-menu/assets/19229631/e901eca8-129b-4034-8dc7-fe44b86849fc)
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Introduction
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The "Pizza Menu" project is a React-based application that simulates a menu display for a fictional pizza restaurant called "Fast React Pizza Co." It showcases various pizzas with their details.
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Displays a list of pizzas with details like name, ingredients, price, and availability.
+- Offers a responsive design for seamless viewing across devices.
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React**: Front-end library for building user interfaces.
+- **React Router**: Handling navigation within the application.
+- **CSS (Cascading Style Sheets)**: Styling the application.
+- **JavaScript (ES6+)**: Core programming language used.
+- **npm**: Package manager for installing dependencies.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Project Structure
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The main structure of the project is divided into the following components:
 
-### `npm run eject`
+- **App:** The main component rendering the header, menu, and footer.
+- **Header:** Displays the title of the pizza restaurant.
+- **Menu:** Renders the list of pizzas available in the menu.
+- **Pizza:** Represents an individual pizza item in the menu.
+- **Footer:** Displays information about the restaurant's opening hours.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To set up the project locally, follow these steps:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Clone the repository: `git clone <repository-url>`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Usage
 
-## Learn More
+Upon starting the development server, open your browser and navigate to the specified localhost port to view the pizza menu application. Explore the available pizzas and their details in the menu display.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Contributions, bug reports, or feature suggestions are highly appreciated. If you wish to contribute:
 
-### Code Splitting
+1. Fork the repository.
+2. Create a new branch for your feature: `git checkout -b feature-name`
+3. Make your changes and commit them: `git commit -m 'Add feature'`
+4. Push to the branch: `git push origin feature-name`
+5. Open a pull request.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sajal-timilsina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajal-timilsina/" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@sazzal77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sazzal77" height="30" width="40" /></a>
+</p>
